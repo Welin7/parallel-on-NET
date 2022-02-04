@@ -14,7 +14,7 @@ Console.WriteLine();
 
 //Define quantos nucles lógicos da cpu utilizaremos para executar as  requisições, ou seja, quantas Threads serão usadas para processar as requisições.
 var parallelOptions = new ParallelOptions();
-parallelOptions.MaxDegreeOfParallelism = 8;
+parallelOptions.MaxDegreeOfParallelism = 10;
 
 var stopWatch = Stopwatch.StartNew();
 
