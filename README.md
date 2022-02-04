@@ -1,0 +1,1 @@
+# Projeto demonstra a chamada de cinco requisições utilizando a Api ViaCep, de forma sequencial e paralela. O intuito é garantir que se usado de maneira correta, a programação paralela pode ser performática e rápida.
